@@ -1,2 +1,2 @@
 # Aspire
-mutlipurpouse project
+mutlipurpose project
